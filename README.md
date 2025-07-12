@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi there, I'm Miguel Zschornack
 
-<!--
-**zschornack/zschornack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 Currently @ Zimpler • 🇸🇪 Stockholm (remotely from SC Brazil) 
+💻 Software Engineer | Payments Specialist | Always learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 I work at **Zimpler** on next-gen payment solutions
+
+---
+
+## 💼 Work & Projects
+
+-
+
+---
+
+## 📚 Latest Learning
+
+
+
+---
+
+## 📫 Let's Connect
+
+- Work email: miguel.zschornack@zimpler.com
+- Personal email: miguelzschornack@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel-zschornack)
+- 🗂️ [Portfolio / Blog](https://your-portfolio-or-blog-link.com)
+
+---
+
+## ⚡ Fun Facts
+
+- 🎵 Plays guitar (badly but enthusiastically)
+- ☕ Can’t function without coffee
+- 🌍 Loves travel and languages
+
+---
+
+⭐️ Feel free to check out my repositories, raise issues, or contribute!
+
