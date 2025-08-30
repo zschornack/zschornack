@@ -3,19 +3,16 @@
 🌎 Currently @ Zimpler • 🇸🇪 Stockholm (remotely from SC Brazil) 
 💻 Software Engineer | Payments Specialist | Always learning
 
----
 
 ## 👨‍💻 About Me
 
 - 🔭 I work at **Zimpler** on next-gen payment solutions
 
----
 
 ## 💼 Work & Projects
 
 -
 
----
 
 ## 📚 Latest Learning
 
