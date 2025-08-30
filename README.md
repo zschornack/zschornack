@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Miguel Zschornack
 
-🌎 Currently @ Zimpler • 🇸🇪 Stockholm (remotely from SC Brazil) 
-💻 Software Engineer Student | Payments Specialist | Always learning
-🇺🇸 I created my own English School | TalkBox English School | @talkboxjgs
+🌎 Currently @ Zimpler • 🇸🇪 Stockholm (remotely from SC Brazil)    
+💻 Software Engineer Student | Payments Specialist | Always learning     
+🇺🇸 I created my own English School | TalkBox English School | @talkboxjgs    
 
 
 ## 👨‍💻 About Me / Experience
