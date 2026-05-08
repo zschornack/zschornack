@@ -2,7 +2,7 @@
 
 🌎 Currently @ TalkBox   
 💻 Software Engineer Student | Always learning     
-🇺🇸 I created my own English School | TalkBox English School | @talkboxjgs    
+I created my own English School | TalkBox English School | @talkboxjgs    
 
 
 ## 👨‍💻 About Me / Experience
