@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Miguel Zschornack
+# Hi there, I'm Miguel Zschornack
 
 🌎 Currently @ TalkBox   
 💻 Software Engineer Student | Always learning     
