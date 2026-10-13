@@ -1,7 +1,7 @@
 # Hi there, I'm Miguel Zschornack
 
-🌎 Currently @ TalkBox   
-💻 Software Engineer Student | Always learning     
+TalkBox English School co-founder   
+Software Engineer Student     
 I created my own English School | TalkBox English School | @talkboxjgs    
 
 
@@ -13,8 +13,7 @@ I created my own English School | TalkBox English School | @talkboxjgs
 
 ## 💼 Work & Projects
 
-- Teaching English to people!
-
+- Teaching - English but not only - to people!
 
 ## 📚 Latest Learning | Skills
 
